@@ -1,19 +1,19 @@
 {
   "files": {
     "rates_daily.csv": {
-      "byte_size": 6867,
-      "rows": 36,
-      "sha256": "5c8f7c3c1b0cd40bffdb9a4c176d9d854a54e7f0b651098853f8a622ea3b6860"
+      "byte_size": 3593,
+      "rows": 18,
+      "sha256": "cac38f1b212fb50c850897a53e2960575277d0c2dcece8f0f217bfa4b2624a3a"
     },
     "rates_shadow.csv": {
-      "byte_size": 25752,
-      "rows": 147,
-      "sha256": "a2a504c6ded0d2968251bcff2526badac8def9bd9433bf9a4186ec2ca145ac05"
+      "byte_size": 14232,
+      "rows": 81,
+      "sha256": "4e3144d2b4aaf189c99485b5fdb37b6c8ddd89dcc665069e6d5b3eeb25ef1990"
     },
     "term_structure.csv": {
-      "byte_size": 2051,
-      "rows": 16,
-      "sha256": "a25397ca2409ccca1ade695e6851eb20d1c03048d3f8b2775db593de4158fdc0"
+      "byte_size": 1247,
+      "rows": 9,
+      "sha256": "29fba5417dbd8c48f9d9fa0d95befe047461be2a5a96b4d2941705ccef41c2e6"
     }
   },
   "independence_declaration": "All inputs publicly observable. No solicited quotes.",
@@ -30,9 +30,9 @@
   "publication": {
     "as_of_date": "2026-04-24",
     "cadence": "daily 06:30 CT (ccir-v2-daily-fix)",
-    "published_at_ct": "2026-04-24T11:22:12-05:00",
-    "published_at_utc": "2026-04-24T16:22:12+00:00"
+    "published_at_ct": "2026-04-24T11:51:51-05:00",
+    "published_at_utc": "2026-04-24T16:51:51+00:00"
   },
-  "run_id": "export-20260424T162209Z-020c2621",
+  "run_id": "export-20260424T165148Z-b17814fa",
   "schema_version": "1.0.0"
 }
