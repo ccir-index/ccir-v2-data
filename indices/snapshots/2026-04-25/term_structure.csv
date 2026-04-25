@@ -1,5 +1,5 @@
 series_id,as_of_date,factory_type,gpu_model,tenor_from,tenor_to,tenor_from_years,tenor_to_years,forward_rate_usd_per_gpu_hour,source_par_from_rate,source_par_to_rate,curve_shape,sanity_flags,promotion_status,methodology_version
-CRI-HIF-A100-40GB-ALL-ALL-ALL-ALL-FWD-1yr3yr,2026-04-25,HIF,A100,1Y,3Y,1.0,3.0,0.7167,1.9605,1.1313,BACKWARDATION,SuspiciousDecline,Shadow,v2.0.0
+CRI-HIF-A100-40GB-ALL-ALL-ALL-ALL-FWD-1yr3yr,2026-04-25,HIF,A100,1Y,3Y,1.0,3.0,0.7167,1.9605,1.1313,BACKWARDATION,"SuspiciousLow,SuspiciousDecline",Shadow,v2.0.0
 CRI-HIF-A100-ALL-ALL-ALL-ALL-FWD-1yr3yr,2026-04-25,HIF,A100,1Y,3Y,1.0,3.0,2.6580,3.2979,2.8713,BACKWARDATION,,Published,v2.0.0
 CRI-HIF-B200-ALL-ALL-ALL-ALL-FWD-1yr3yr,2026-04-25,HIF,B200,1Y,3Y,1.0,3.0,5.0747,11.1159,7.0884,BACKWARDATION,SuspiciousDecline,Shadow,v2.0.0
 CRI-HIF-GB200-ALL-ALL-ALL-ALL-FWD-1yr3yr,2026-04-25,HIF,GB200,1Y,3Y,1.0,3.0,4.5968,8.6528,5.9488,BACKWARDATION,,Shadow,v2.0.0
