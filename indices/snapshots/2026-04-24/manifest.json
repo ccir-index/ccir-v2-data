@@ -1,14 +1,14 @@
 {
   "files": {
     "rates_daily.csv": {
-      "byte_size": 17967,
-      "rows": 89,
-      "sha256": "70065436edbc07c02366e1c5374aef5b009ec5d0e7ee0eeaa763bf707b8e7dae"
+      "byte_size": 19658,
+      "rows": 97,
+      "sha256": "41bc6025da91c5ef6e4cce64461b1f1710f7f75fc74aaaab55e415e1cf059d2e"
     },
     "rates_shadow.csv": {
-      "byte_size": 49249,
-      "rows": 256,
-      "sha256": "00f7cc56e6f08513073b14c4ad804d2de0fe08bf2a3af7b4ceecea3d8c3bb7d3"
+      "byte_size": 48032,
+      "rows": 249,
+      "sha256": "21d5ca4dc128cbb17d8b7c2f1b1ca4c377723150e16a5ac00bd761ae45cd9382"
     },
     "term_structure.csv": {
       "byte_size": 1393,
@@ -30,9 +30,9 @@
   "publication": {
     "as_of_date": "2026-04-24",
     "cadence": "daily 06:30 CT (ccir-v2-daily-fix)",
-    "published_at_ct": "2026-04-24T15:29:22-05:00",
-    "published_at_utc": "2026-04-24T20:29:22+00:00"
+    "published_at_ct": "2026-04-24T21:51:15-05:00",
+    "published_at_utc": "2026-04-25T02:51:15+00:00"
   },
-  "run_id": "export-20260424T202919Z-ae77b4bd",
+  "run_id": "export-20260425T025111Z-a769d8f3",
   "schema_version": "1.0.0"
 }
